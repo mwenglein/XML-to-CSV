@@ -1,0 +1,36 @@
+<contacts>
+    <contact>
+        <name>Mike "Air"</name>
+        <emails>
+            <email>mike1@example.com</email>
+            <email>mike2@example.com</email>
+            <email>mike3@example.com</email>
+        </emails>
+        <hobbies>
+            <surfing>true</surfing>
+            <snowboarding>true</snowboarding>
+            <hiking>true</hiking>
+        </hobbies>
+    </contact>
+    <contact>
+        <name>John, Johnson</name>
+        <emails>
+            <email>john1@example.com</email>
+            <email>john2@example.com</email>
+        </emails>
+        <hobbies>
+            <swimming>true</swimming>
+            <fishing>true</fishing>
+        </hobbies>
+    </contact>    
+    <contact>
+        <name>Max</name>
+        <emails>
+            <email>max1@example.com</email>
+        </emails>
+        <hobbies>
+            <surfing>true</surfing>
+            <biking>true</biking>
+        </hobbies>
+    </contact>
+</contacts>
